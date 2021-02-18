@@ -1,0 +1,23 @@
+{
+  "name": "adyen-dropin-integration",
+  "version": "1.0.0",
+  "description": "To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/podvistorcheto/adyen-dropin-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/podvistorcheto/adyen-dropin-integration/issues"
+  },
+  "homepage": "https://github.com/podvistorcheto/adyen-dropin-integration#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
